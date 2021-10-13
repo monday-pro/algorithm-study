@@ -1,4 +1,4 @@
-package basic;
+package basic.node;
 
 /**
  * 单链表和双链表反转

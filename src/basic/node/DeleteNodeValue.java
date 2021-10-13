@@ -1,4 +1,4 @@
-package basic;
+package basic.node;
 
 /**
  * 单链表删除指定的值
