@@ -26,8 +26,7 @@
 | 基础数据结构--栈和队列的练习                                 | [文章](https://mp.weixin.qq.com/s/ZE9VPxZ1rx3BxS7waKVAAA) | [代码1](src/basic/stackqueue/TwoQueuesImplementStack.java)，[代码2](src/basic/stackqueue/TwoStacksImplementQueue.java) |
 | 归并排序以及Master公式                                       | [文章](https://mp.weixin.qq.com/s/V_Ac1UnqJbJbZ89gVvKXHg) | [代码](src/basic/mergesort/MergeSort.java)                   |
 | 归并排序：解决小和，逆序对问题                               | [文章](https://mp.weixin.qq.com/s/6FdL3bm8LkmhWsKsRSSn3A) | [代码1](src/basic/mergesort/SmallSum.java)，[代码2](src/basic/mergesort/ReversePair.java) |
-| 归并排序：大于右侧数两倍                                     | [文章](https://mp.weixin.qq.com/s/iejFWetKVOs3BXpClQLx9w) | [代码](src/basic/mergesort/BiggerThanRightTwice.java)        |
-| 归并排序：LeetCode327. 区间和的个数                          | [文章](https://mp.weixin.qq.com/s/iejFWetKVOs3BXpClQLx9w) | [代码](src/basic/mergesort/CountOfRangeSum.java)             |
+| 归并排序：大于右侧数两倍，LeetCode327. 区间和的个数          | [文章](https://mp.weixin.qq.com/s/iejFWetKVOs3BXpClQLx9w) | [代码1](src/basic/mergesort/BiggerThanRightTwice.java)，[代码2](src/basic/mergesort/CountOfRangeSum.java) |
 | 荷兰国旗问题以及快速排序                                     | [文章](https://mp.weixin.qq.com/s/5wyGMkUSaC0txSYkVc2prA) | [代码](src/basic/quicksort/QuickSort.java)                   |
 | 堆和堆排序                                                   | [文章](https://mp.weixin.qq.com/s/AyMfxFu4MQv3kBM8UwBA4Q) | [代码1](src/basic/heap/Heap.java)，[代码2](src/basic/heap/HeapSort.java) |
 | 与堆有关的题目：几乎有序的数组排序，最大线段重合问题         | [文章](https://mp.weixin.qq.com/s/4PUaS2gj7tul4u69imKDaQ) | [代码1](src/basic/heap/SortArrayDistanceLessK.java)，[代码2](src/basic/heap/LineCoverMax.java) |
