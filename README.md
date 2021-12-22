@@ -18,6 +18,12 @@
 
 # 文章和代码
 
+**Github地址**：https://github.com/monday-pro/algorithm-study
+
+**Gitee地址**：https://gitee.com/monday-pro/algorithm-study
+
+
+
 **持续更新中**，目前以一些基本的算法和解题套路为主。
 
 | 题目                                                         | 文章地址                                                  | 所有代码                                                     |
