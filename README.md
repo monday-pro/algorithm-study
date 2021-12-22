@@ -20,8 +20,9 @@
 
 **持续更新中**，目前以一些基本的算法和解题套路为主。
 
-| 基础数据结构--链表的练习                                     | [文章](https://mp.weixin.qq.com/s/tZ3aI_AldoT8dxzZLtX_LA) |                                                              |
+| 题目                                                         | 文章地址                                                  | 所有代码                                                     |
 | ------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------ |
+| 基础数据结构--链表的练习                                     | [文章](https://mp.weixin.qq.com/s/tZ3aI_AldoT8dxzZLtX_LA) |                                                              |
 | 基础数据结构--栈和队列的练习                                 | [文章](https://mp.weixin.qq.com/s/ZE9VPxZ1rx3BxS7waKVAAA) | [代码1](src/basic/stackqueue/TwoQueuesImplementStack.java)，[代码2](src/basic/stackqueue/TwoStacksImplementQueue.java) |
 | 归并排序以及Master公式                                       | [文章](https://mp.weixin.qq.com/s/V_Ac1UnqJbJbZ89gVvKXHg) | [代码](src/basic/mergesort/MergeSort.java)                   |
 | 归并排序：解决小和，逆序对问题                               | [文章](https://mp.weixin.qq.com/s/6FdL3bm8LkmhWsKsRSSn3A) | [代码1](src/basic/mergesort/SmallSum.java)，[代码2](src/basic/mergesort/ReversePair.java) |
