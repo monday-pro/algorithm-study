@@ -45,4 +45,6 @@
 | 二叉树基本算法                                               | [文章](https://mp.weixin.qq.com/s/UxH4yST7JaQz9QAuO6anHQ) | [代码1](src/basic/binarytree/LevelTraversalBinaryTree.java)，[代码2](src/basic/binarytree/RecursiveTraversalBinaryTree.java)，[代码3](src/basic/binarytree/UnRecursiveTraversalBinaryTree.java)， |
 | 二叉树的序列化和反列化                                       | [文章](https://mp.weixin.qq.com/s/iirR_-W4bLHzn-WqCMJ-LA) | [代码](src/basic/binarytree/SerializeAndDeserializeTree.java) |
 | 求二叉树最宽的层有多少个节点                                 | [文章](https://mp.weixin.qq.com/s/dOGeIRJ6y46CqByJ9WGq2A) | [代码](src/basic/binarytree/TreeMaxWidth.java)               |
+| 查询后继节点、纸条折痕问题                                   | [文章](https://mp.weixin.qq.com/s/gSvEsKrFPjxxCydlHS25og) | [代码1](src/basic/binarytree/SuccessorNode.java)，[代码2](src/basic/binarytree/PaperFolding.java) |
+| 二叉树递归套路：判断二叉树是否是完全二叉树、判断二叉树是否是平衡二叉树 | [文章](https://mp.weixin.qq.com/s/TrGxwyEaq2y6LLaivk66bQ) | [代码1](src/basic/binarytree/IsCompleteBinaryTree.java)，[代码2](src/basic/binarytree/IsBalancedBinaryTree.java) |
 
