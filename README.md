@@ -26,25 +26,28 @@
 
 **持续更新中**，目前以一些基本的算法和解题套路为主。
 
-| 题目                                                         | 文章地址                                                  | 所有代码                                                     |
-| ------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------ |
-| 基础数据结构--链表的练习                                     | [文章](https://mp.weixin.qq.com/s/tZ3aI_AldoT8dxzZLtX_LA) |                                                              |
-| 基础数据结构--栈和队列的练习                                 | [文章](https://mp.weixin.qq.com/s/ZE9VPxZ1rx3BxS7waKVAAA) | [代码1](src/basic/stackqueue/TwoQueuesImplementStack.java)，[代码2](src/basic/stackqueue/TwoStacksImplementQueue.java) |
-| 归并排序以及Master公式                                       | [文章](https://mp.weixin.qq.com/s/V_Ac1UnqJbJbZ89gVvKXHg) | [代码](src/basic/mergesort/MergeSort.java)                   |
-| 归并排序：解决小和，逆序对问题                               | [文章](https://mp.weixin.qq.com/s/6FdL3bm8LkmhWsKsRSSn3A) | [代码1](src/basic/mergesort/SmallSum.java)，[代码2](src/basic/mergesort/ReversePair.java) |
-| 归并排序：大于右侧数两倍，LeetCode327. 区间和的个数          | [文章](https://mp.weixin.qq.com/s/iejFWetKVOs3BXpClQLx9w) | [代码1](src/basic/mergesort/BiggerThanRightTwice.java)，[代码2](src/basic/mergesort/CountOfRangeSum.java) |
-| 荷兰国旗问题以及快速排序                                     | [文章](https://mp.weixin.qq.com/s/5wyGMkUSaC0txSYkVc2prA) | [代码](src/basic/quicksort/QuickSort.java)                   |
-| 堆和堆排序                                                   | [文章](https://mp.weixin.qq.com/s/AyMfxFu4MQv3kBM8UwBA4Q) | [代码1](src/basic/heap/Heap.java)，[代码2](src/basic/heap/HeapSort.java) |
-| 与堆有关的题目：几乎有序的数组排序，最大线段重合问题         | [文章](https://mp.weixin.qq.com/s/4PUaS2gj7tul4u69imKDaQ) | [代码1](src/basic/heap/SortArrayDistanceLessK.java)，[代码2](src/basic/heap/LineCoverMax.java) |
-| 前缀树                                                       | [文章](https://mp.weixin.qq.com/s/TImX032ttO_KOdmzYhDC3g) | [代码](src/basic/trietree/TrieTree.java)                     |
-| 排序算法总结                                                 | [文章](https://mp.weixin.qq.com/s/CFV8jkAcnFgKrCFFNe78aA) |                                                              |
-| 不基于比较的排序：基数排序，计数排序                         | [文章](https://mp.weixin.qq.com/s/Wg8sK_59BW6u70qaZztviw) | [代码1](src/basic/nocomparesort/RadixSort.java)，[代码2](src/basic/nocomparesort/CountSort.java) |
-| 链表相关题目：判断链表是不是回文结构，将单向链表划分成左边小、中间等、右边大的形式 | [文章](https://mp.weixin.qq.com/s/Z4Z-cwPUfIvpuA1VqAMSvQ) | [代码1](src/basic/node/IsPalindromeList.java)，[代码2](src/basic/node/SmallerEqualBigger.java) |
-| LeetCode 138. 复制带随机指针的链表                           | [文章](https://mp.weixin.qq.com/s/Vm9jFa6cM2ar-hOO4SpCYg) | [代码](src/basic/node/CopyListWithRandom.java)               |
-| 有环或无环单链表的相交问题                                   | [文章](https://mp.weixin.qq.com/s/MjsSwWOo-txyGBYvo6Ihuw) | [代码](src/basic/node/FindFirstIntersectNode.java)           |
-| 二叉树基本算法                                               | [文章](https://mp.weixin.qq.com/s/UxH4yST7JaQz9QAuO6anHQ) | [代码1](src/basic/binarytree/LevelTraversalBinaryTree.java)，[代码2](src/basic/binarytree/RecursiveTraversalBinaryTree.java)，[代码3](src/basic/binarytree/UnRecursiveTraversalBinaryTree.java)， |
-| 二叉树的序列化和反列化                                       | [文章](https://mp.weixin.qq.com/s/iirR_-W4bLHzn-WqCMJ-LA) | [代码](src/basic/binarytree/SerializeAndDeserializeTree.java) |
-| 求二叉树最宽的层有多少个节点                                 | [文章](https://mp.weixin.qq.com/s/dOGeIRJ6y46CqByJ9WGq2A) | [代码](src/basic/binarytree/TreeMaxWidth.java)               |
-| 查询后继节点、纸条折痕问题                                   | [文章](https://mp.weixin.qq.com/s/gSvEsKrFPjxxCydlHS25og) | [代码1](src/basic/binarytree/SuccessorNode.java)，[代码2](src/basic/binarytree/PaperFolding.java) |
-| 二叉树递归套路：判断二叉树是否是完全二叉树、判断二叉树是否是平衡二叉树 | [文章](https://mp.weixin.qq.com/s/TrGxwyEaq2y6LLaivk66bQ) | [代码1](src/basic/binarytree/IsCompleteBinaryTree.java)，[代码2](src/basic/binarytree/IsBalancedBinaryTree.java) |
+| 题目                                                         | 文章地址                                                     | 所有代码                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 基础数据结构--链表的练习                                     | [文章](https://mp.weixin.qq.com/s/tZ3aI_AldoT8dxzZLtX_LA)    |                                                              |
+| 基础数据结构--栈和队列的练习                                 | [文章](https://mp.weixin.qq.com/s/ZE9VPxZ1rx3BxS7waKVAAA)    | [代码1](src/basic/stackqueue/TwoQueuesImplementStack.java)，[代码2](src/basic/stackqueue/TwoStacksImplementQueue.java) |
+| 归并排序以及Master公式                                       | [文章](https://mp.weixin.qq.com/s/V_Ac1UnqJbJbZ89gVvKXHg)    | [代码](src/basic/mergesort/MergeSort.java)                   |
+| 归并排序：解决小和，逆序对问题                               | [文章](https://mp.weixin.qq.com/s/6FdL3bm8LkmhWsKsRSSn3A)    | [代码1](src/basic/mergesort/SmallSum.java)，[代码2](src/basic/mergesort/ReversePair.java) |
+| 归并排序：大于右侧数两倍，LeetCode327. 区间和的个数          | [文章](https://mp.weixin.qq.com/s/iejFWetKVOs3BXpClQLx9w)    | [代码1](src/basic/mergesort/BiggerThanRightTwice.java)，[代码2](src/basic/mergesort/CountOfRangeSum.java) |
+| 荷兰国旗问题以及快速排序                                     | [文章](https://mp.weixin.qq.com/s/5wyGMkUSaC0txSYkVc2prA)    | [代码](src/basic/quicksort/QuickSort.java)                   |
+| 堆和堆排序                                                   | [文章](https://mp.weixin.qq.com/s/AyMfxFu4MQv3kBM8UwBA4Q)    | [代码1](src/basic/heap/Heap.java)，[代码2](src/basic/heap/HeapSort.java) |
+| 与堆有关的题目：几乎有序的数组排序，最大线段重合问题         | [文章](https://mp.weixin.qq.com/s/4PUaS2gj7tul4u69imKDaQ)    | [代码1](src/basic/heap/SortArrayDistanceLessK.java)，[代码2](src/basic/heap/LineCoverMax.java) |
+| 前缀树                                                       | [文章](https://mp.weixin.qq.com/s/TImX032ttO_KOdmzYhDC3g)    | [代码](src/basic/trietree/TrieTree.java)                     |
+| 排序算法总结                                                 | [文章](https://mp.weixin.qq.com/s/CFV8jkAcnFgKrCFFNe78aA)    |                                                              |
+| 不基于比较的排序：基数排序，计数排序                         | [文章](https://mp.weixin.qq.com/s/Wg8sK_59BW6u70qaZztviw)    | [代码1](src/basic/nocomparesort/RadixSort.java)，[代码2](src/basic/nocomparesort/CountSort.java) |
+| 链表相关题目：判断链表是不是回文结构，将单向链表划分成左边小、中间等、右边大的形式 | [文章](https://mp.weixin.qq.com/s/Z4Z-cwPUfIvpuA1VqAMSvQ)    | [代码1](src/basic/node/IsPalindromeList.java)，[代码2](src/basic/node/SmallerEqualBigger.java) |
+| LeetCode 138. 复制带随机指针的链表                           | [文章](https://mp.weixin.qq.com/s/Vm9jFa6cM2ar-hOO4SpCYg)    | [代码](src/basic/node/CopyListWithRandom.java)               |
+| 有环或无环单链表的相交问题                                   | [文章](https://mp.weixin.qq.com/s/MjsSwWOo-txyGBYvo6Ihuw)    | [代码](src/basic/node/FindFirstIntersectNode.java)           |
+| 二叉树基本算法                                               | [文章](https://mp.weixin.qq.com/s/UxH4yST7JaQz9QAuO6anHQ)    | [代码1](src/basic/binarytree/LevelTraversalBinaryTree.java)，[代码2](src/basic/binarytree/RecursiveTraversalBinaryTree.java)，[代码3](src/basic/binarytree/UnRecursiveTraversalBinaryTree.java)， |
+| 二叉树的序列化和反列化                                       | [文章](https://mp.weixin.qq.com/s/iirR_-W4bLHzn-WqCMJ-LA)    | [代码](src/basic/binarytree/SerializeAndDeserializeTree.java) |
+| 求二叉树最宽的层有多少个节点                                 | [文章](https://mp.weixin.qq.com/s/dOGeIRJ6y46CqByJ9WGq2A)    | [代码](src/basic/binarytree/TreeMaxWidth.java)               |
+| 查询后继节点、纸条折痕问题                                   | [文章](https://mp.weixin.qq.com/s/gSvEsKrFPjxxCydlHS25og)    | [代码1](src/basic/binarytree/SuccessorNode.java)，[代码2](src/basic/binarytree/PaperFolding.java) |
+| 二叉树递归套路：判断二叉树是否是完全二叉树、判断二叉树是否是平衡二叉树 | [文章](https://mp.weixin.qq.com/s/TrGxwyEaq2y6LLaivk66bQ)    | [代码1](src/basic/binarytree/IsCompleteBinaryTree.java)，[代码2](src/basic/binarytree/IsBalancedBinaryTree.java) |
+| 二叉树递归套路（2）：判断二叉树是否是搜索二叉树、二叉树的最大距离 | [文章](https://mp.weixin.qq.com/s?__biz=Mzg2NTYwMDM0Mg==&mid=2247486612&idx=1&sn=3a767209658b10c5ff8006bcfdd15eb3&chksm=ce56daadf92153bbb2875e0e81d4c465c58aed7f174174748199a4d97b118f80129414c20a16&scene=178&cur_album_id=2085925789451059201#rd) | [代码1](src/basic/binarytree/IsSearchBinaryTree.java)，[代码2](src/basic/binarytree/MaxDistance.java) |
+| 二叉树递归套路（3）：判断是否是满二叉树、最大子搜索二叉树的节点数 | [文章](https://mp.weixin.qq.com/s?__biz=Mzg2NTYwMDM0Mg==&mid=2247486622&idx=1&sn=cc582db8edd6a53da24bc819f4f5780a&chksm=ce56daa7f92153b1316bce79c49188e4ed485bc693f510779c58b3527465115ca3337be94b83&scene=178&cur_album_id=2085925789451059201#rd) | [代码1](src/basic/binarytree/IsFullBinaryTree.java)，[代码2](src/basic/binarytree/MaxSubSearchBinaryTreeSize.java) |
+| 二叉树递归套路（4）：最低公共祖先、派对的最大快乐值          | [文章](https://mp.weixin.qq.com/s?__biz=Mzg2NTYwMDM0Mg==&mid=2247486643&idx=1&sn=3205d61e35fdb826dbf0c5ab03695fef&chksm=ce56da8af921539c22e2773a1331202ecfe28e8a4a998799f6385e873601cea1d1cfd5d4d6cb&scene=178&cur_album_id=2085925789451059201#rd) | [代码1](src/basic/binarytree/LowestAncestor.java)，[代码2](src/basic/binarytree/MaxHappy.java) |
 
