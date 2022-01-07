@@ -7,7 +7,7 @@ package basic.unionfind;
  *
  * @author 周一
  */
-public class Code01FindCircleNum {
+public class FindCircleNum {
 
     public int findCircleNum(int[][] isConnected) {
         int length = isConnected.length;
