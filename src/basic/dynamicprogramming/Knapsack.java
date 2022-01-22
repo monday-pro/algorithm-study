@@ -11,7 +11,7 @@ package basic.dynamicprogramming;
  *
  * @author 周一
  */
-public class Code01Knapsack {
+public class Knapsack {
 
     public static int maxValue(int[] w, int[] v, int bag) {
         if (w == null || v == null || w.length != v.length || w.length == 0) {
