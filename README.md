@@ -1,4 +1,4 @@
-# 介绍
+# 一、仓库介绍
 
 **程序 = 算法 + 数据结构**
 
@@ -16,7 +16,7 @@
 
 
 
-# 文章和代码
+# 二、文章和代码
 
 **Github地址**：https://github.com/monday-pro/algorithm-study
 
@@ -58,4 +58,22 @@
 | 从 最具启发性的汉诺塔问题开始 聊递归                         | [文章](https://mp.weixin.qq.com/s?__biz=Mzg2NTYwMDM0Mg==&mid=2247486765&idx=1&sn=1e81186fd36f89c3055669c978dab492&chksm=ce56db14f9215202d9b1bcfa0c40f715bbb9b650091d29ef34ae55d246ac05aa07c83093d53f&scene=178&cur_album_id=2085925789451059201#rd) | [代码](src/basic/dynamicprogramming/recursion)               |
 | 从暴力递归到动态规划（1）：概念、机器人移动问题、纸牌问题    | [文章](https://mp.weixin.qq.com/s?__biz=Mzg2NTYwMDM0Mg==&mid=2247486820&idx=1&sn=74249b8f822267e89435f54e93ff8879&chksm=ce56db5df921524b919459f53f5ae18318daf11e4010ddd14692c5533be192e6ec06f41bb5e3&scene=178&cur_album_id=2085925789451059201#rd) | [代码1](src/basic/dynamicprogramming/RobotWalk.java)，[代码2](src/basic/dynamicprogramming/CardsInLine.java) |
 | 从暴力递归到动态规划（2）：背包问题、数字转字母问题          | [文章](https://mp.weixin.qq.com/s?__biz=Mzg2NTYwMDM0Mg==&mid=2247486862&idx=1&sn=3d2d1379e24b0141b40b729383e7dd90&chksm=ce56dbb7f92152a10da203af8badd58e6436480afb9f6707d75ec861991a2515dfbd515fc2e4&scene=178&cur_album_id=2085925789451059201#rd) | [代码1](src/basic/dynamicprogramming/Knapsack.java)，[代码2](src/basic/dynamicprogramming/ConvertToLetterString.java) |
+
+# 三、LeetCode题解
+
+在上面讲解基本的算法和解题套路时，已经涉及到了部分LeetCode题目的解题思路，为了方便查看，单独将已经涉及的LeetCode题解剥离出来。
+
+
+
+另一方面，在学完了基本的算法和解题套路时，后面再涉及的题目大多都会来自LeetCode，也方便后期本项目的维护。
+
+
+
+| LeetCode题目                                                 | 题解文章地址                                                 | 代码地址                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------- |
+| [327. 区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/) | [题解地址](https://mp.weixin.qq.com/s?__biz=Mzg2NTYwMDM0Mg==&mid=2247484635&idx=1&sn=9f7ef3e2cf8d04d460ae385acb100aae&chksm=ce56d2e2f9215bf47af97213c2ca8086c853d678c08e130600aceb03766f50012bfd3ba6e3c4&token=1551232008&lang=zh_CN#rd) | [代码]()                                       |
+| [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [题解地址](https://mp.weixin.qq.com/s?__biz=Mzg2NTYwMDM0Mg==&mid=2247486369&idx=1&sn=937e8cd7e8797ffad86a2985e345fefb&chksm=ce56dd98f921548ef0137db83da468c63012477474958639958e283c0df704aa19de614ea833&token=1551232008&lang=zh_CN#rd) | [代码](src/basic/node/CopyListWithRandom.java) |
+| [502. IPO问题](https://leetcode-cn.com/problems/ipo)         | [题解地址](https://mp.weixin.qq.com/s?__biz=Mzg2NTYwMDM0Mg==&mid=2247486661&idx=1&sn=81374bd04170c73c556d9d75754e4b92&chksm=ce56dafcf92153ea387366d6ddd8eb289eb48306c41cca8d8b573248ad65e62bbc751813dbe8&token=1551232008&lang=zh_CN#rd) | [代码](src/basic/greedy/IPO.java)              |
+| [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | [题解地址](https://mp.weixin.qq.com/s?__biz=Mzg2NTYwMDM0Mg==&mid=2247486679&idx=1&sn=5ff2d256185974b2ffc09918cc9dd3fc&chksm=ce56daeef92153f80c30c7bdbc5caa2b00dbfd0334ddc5f0f658d459dafcdfad90e46974dae8&token=1551232008&lang=zh_CN#rd) | [代码](src/basic/unionfind/FindCircleNum.java) |
+| [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [题解地址](https://mp.weixin.qq.com/s?__biz=Mzg2NTYwMDM0Mg==&mid=2247486690&idx=1&sn=5769a9f643629d79a1bfe422c794aa87&chksm=ce56dadbf92153cd41c29c91a3315fbf8311adfa6e7d207cae26c37186d0f01f395f0c835aa8&token=1551232008&lang=zh_CN#rd) | [代码](src/basic/unionfind/NumIslands.java)    |
 
